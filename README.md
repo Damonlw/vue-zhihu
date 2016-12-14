@@ -6,7 +6,7 @@
 >
 > 基于 vue2.0 + vuex + vue-router + ES6 + hammer + webpack 的单页面应用
 
-![](https://github.com/Damonlw/knowGit/raw/master/Logo/zhihu.png)
+![](https://github.com/Damonlw/knowGit/raw/master/logo/zhihu.png)
 
 ## Build Setup
 
