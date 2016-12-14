@@ -4,7 +4,7 @@
 >
 > A Vue.js project
 >
-> 基于 vue2.0 + vuex + vue-router + ES6 + hammer + webpack 的单页面应用
+> 基于 vue2.0 + vuex + vue-router + ES6 + hammer + express + webpack 的单页面应用
 
 ![](https://github.com/Damonlw/vue-zhihu/raw/master/logo/zhihu.png)
 
