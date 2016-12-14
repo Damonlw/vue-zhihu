@@ -6,6 +6,8 @@
 >
 > 基于 vue2.0 + vuex + vue-router + ES6 + express + webpack 的单页面应用
 
+![](https://github.com/Damonlw/knowGit/raw/master/Logo/zhihu.png)
+
 ## Build Setup
 
 ``` bash
