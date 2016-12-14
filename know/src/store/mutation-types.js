@@ -1,0 +1,8 @@
+
+export const GET_DATA = 'GET_DATA';
+export const GET_BODY = 'GET_BODY';
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+export const CHANGE_COLOR = 'CHANGE_COLOR';
+export const SWIPER_CHANGE_COLOR = 'SWIPER_CHANGE_COLOR';
+export const GET_BEFORE_DATA = 'GET_BEFORE_DATA';
+export const CHANGE_NIGHT_MODEL = 'CHANGE_NIGHT_MODEL';
