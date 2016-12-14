@@ -1,6 +1,10 @@
-# know
+# Know
 
+> 知乎日报
+>
 > A Vue.js project
+>
+> 基于 vue2.0 + vuex + vue-router + ES6 + express + webpack 的单页面应用
 
 ## Build Setup
 
